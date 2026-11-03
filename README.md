@@ -83,14 +83,6 @@ AI-ML-Coursework/
 
 Additional tools used across the coursework include **Google Colab**, **Kaggle**, and **Matplotlib**.
 
-## 📖 How to Browse
-
-1. Open the folder for the week or topic you are interested in.
-2. Select the `.ipynb` notebook to view its code, explanations, outputs, and visualizations directly on GitHub.
-3. Use the notebook contents to follow the exercises and implementations in sequence.
-
-Most notebooks are designed to be read and reviewed directly on GitHub. If you choose to execute one, check its imports and data-loading cells for any required packages or external datasets.
-
 ## 👨‍🎓 About Me
 
 **Mohamed Tamer**  
