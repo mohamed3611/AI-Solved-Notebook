@@ -64,6 +64,7 @@ AI-ML-Coursework/
 ├── Week9_Solved_Notebook.ipynb
 ├── Week_10_Solved_Notebook.ipynb
 └── Week11__Solved_Notebook_.ipynb
+```
 
 *The folders follow the original course week numbers. Week 6 was not included in the notebook collection provided for this repository.*
 
