@@ -47,19 +47,23 @@ The notebooks contain solved exercises, implementations, experiments, visualizat
 ```text
 AI-ML-Coursework/
 │
-├── 01-Python-Fundamentals/
-├── 02-NumPy/
-├── 03-Linear-Regression-California-Housing/
-├── 04-Logistic-Regression-and-Deep-Neural-Networks/
-├── 05-Data-Preprocessing-and-Model-Evaluation/
-├── 07-Naive-Bayes-and-Robust-Regression/
-├── 08-RNN-and-SMS-Spam-Classification/
-├── 09-Named-Entity-Recognition/
-├── 10-Diffusion-Models-and-Super-Resolution/
-├── 11-CNN-Transfer-Learning-and-YOLO/
+├── README.md
 │
-└── README.md
-```
+├── week1_Solved_Notebook_.ipynb
+├── Week2_Solved_Notebook_.ipynb
+├── week3_Solved_Notebook.ipynb
+├── Week4_Solved_Notebook.ipynb
+│
+├── Week_5_Part_1_Solved_Notebook.ipynb
+├── Week_5_Part_2_Solved_Notebook.ipynb
+├── Week_5_Part_3_Solved_Notebook.ipynb
+├── Week_5_Part_4_Solved_Notebook.ipynb
+│
+├── Week_7_Solved_Notebook.ipynb
+├── Week8_Solved_Notebook.ipynb
+├── Week9_Solved_Notebook.ipynb
+├── Week_10_Solved_Notebook.ipynb
+└── Week11__Solved_Notebook_.ipynb
 
 *The folders follow the original course week numbers. Week 6 was not included in the notebook collection provided for this repository.*
 
