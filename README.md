@@ -82,7 +82,20 @@ AI-ML-Coursework/
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas,mysql,git,github,jupyter,vscode" alt="Technologies and tools" />
+### 💻 Programming & AI
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,mysql" />
+
+### 📊 Data Science & Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### 🔧 Additional Tools
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 
 </div>
 
